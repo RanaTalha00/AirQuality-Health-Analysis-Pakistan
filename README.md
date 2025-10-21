@@ -1,5 +1,3 @@
-# AirQuality-Health-Analysis-Pakistan
-
 # 🌍 Public Policy Data Analysis – Air Quality & Health in Pakistan
 
 ## 📘 Overview
